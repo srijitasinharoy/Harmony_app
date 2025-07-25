@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491461935691",
+    "project_id": "harmony-app-f2821",
+    "storage_bucket": "harmony-app-f2821.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491461935691:android:4f145a2817b142754483ce",
+        "android_client_info": {
+          "package_name": "com.example.harmony_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "api_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
